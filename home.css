@@ -1,0 +1,93 @@
+img{
+    float: left;
+    height: 150px;
+    width: 150px;
+}
+input{
+    background-color: white;
+    border-radius: 25px; 
+    height: 30px;
+    width: 800px; 
+    margin:50px;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+}
+.boxone{
+    border: 2px ;
+    background-color: rgb(83, 203, 83);
+    height: 200px;
+    width: 1200px;
+    border-radius: 20px;
+
+}
+.Paan{
+    padding: 10px;
+    margin: 10px;
+    color: aliceblue;
+}
+.your{
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+.subbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 5;
+}
+.sub1{
+    border: 2px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    height: 220px;
+    width: 400px;
+}
+.sub2{
+    border: 2px;
+    background-color: rgb(81, 244, 176);
+    border-radius: 10px;
+    height: 220px;
+    width: 400px;
+}
+.sub3{
+    border: 2px;
+    background-color: rgb(247, 65, 83);
+    border-radius: 10px;
+    height: 220px;
+    width: 400px;
+}
+.imgphc{
+    float: right;
+    padding-right: 10px;
+}
+.imgbr{
+    float: inline-end;
+}
+.imgpet{
+    float: right;
+}
+.sub1con{
+    padding: 10px;
+}
+.sub2con{
+    padding: 10px;
+}
+.sub3con{
+    padding: 10px;
+}
+button{
+    background-color: black;
+    color: white;
+}
+
+
+
